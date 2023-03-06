@@ -6,3 +6,4 @@ The second page is the Plot page. The main panel contains a plot of the wages of
 points. Finally, we have the Table page. This page contains a main panel of a table of the average wage of City of Seattle employees per race.
 The side panel has a widget that allows the user to select the race who's average wage they wish to view.
 
+Link: https://nawald.shinyapps.io/City-Of-Seattle-Staff-Demographics/
